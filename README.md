@@ -10,7 +10,7 @@ yarn dev
 
 ## Unit Testing
 
-First, run the development server:
+Run the command:
 
 ```bash
 yarn test
